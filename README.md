@@ -5,7 +5,7 @@ record and arrange everything!
 introduction:
 ------------------
 
-a web system which could write down almost everything.
+a web system which almost could *do* everything.
 
 > I want to record **#the thing#** that I "was doing/will do(like todo, but not exactly)/todo/memo/" in 1 place
 
