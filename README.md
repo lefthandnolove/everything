@@ -1,9 +1,9 @@
-record and arrange everything!	{#welcome}
+record and arrange everything!
 =====================
 
 ------------------
 introduction:
-----------------------
+------------------
 
 a web system which could write down almost everything.
 
